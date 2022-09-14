@@ -352,6 +352,5 @@ $ python3 unittest -m tests/test_console.py
 
 
 ## Authors
-Lucky Abiom - [Github](https://github.com/faemous)
-
-Edidiong Effiong - [Github](https://github.com/eddybest674)
+Excel Nwachukwu - [Github](https://github.com/trillionclues)  
+Bakare Rilwan - [Github](https://github.com/baccrie)
